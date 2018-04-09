@@ -1,0 +1,2 @@
+# ClipboardForHtml
+copy html
